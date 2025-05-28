@@ -1,2 +1,8 @@
 # ninja log v5
-24	116	0	C:/Mac/Home/Documents/GitHub/Game-Bomberman/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	2f65196e4612d3a4
+23	99	0	C:/Mac/Home/Documents/GitHub/Game-Bomberman/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	2f65196e4612d3a4
+116	14491	7701706610187905	CMakeFiles/oop1_project.dir/src/Button.cpp.obj	4ee7245e4514f67e
+105	14519	7701706610212072	CMakeFiles/oop1_project.dir/src/BasicWindow.cpp.obj	30ba8f38b7a83145
+130	14535	7701706610724789	CMakeFiles/oop1_project.dir/src/FontHolder.cpp.obj	6a0f44d91b4d4d77
+121	14807	7701706613199629	CMakeFiles/oop1_project.dir/src/Door.cpp.obj	d49aae2c6bd238cd
+111	14896	7701706614084649	CMakeFiles/oop1_project.dir/src/Bomb.cpp.obj	a70d7b3af21ac899
+126	17231	7701706637761749	CMakeFiles/oop1_project.dir/src/DynamicParticipant.cpp.obj	4c9c630a38c1c326
