@@ -1,0 +1,20 @@
+﻿
+
+If the player encounters an obstacle 
+(wall/rock), movement is blocked.
+
+If the player collides with a guard, 
+they lose.
+
+Movement continues in the chosen 
+direction until stopped by an obstacle.
+
+Guards react differently: 
+some move randomly, while others chase 
+the player. 
+
+Bombs can destroy rocks but not walls. 
+The explosion affects adjacent tiles. 
+
+The game ends when the player loses all 
+lives or reaches the exit door.
