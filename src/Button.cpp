@@ -3,6 +3,7 @@
 Button::Button(const sf::Vector2f& size, const sf::Vector2f& loc, const std::string& buttonName)
 	:m_shape(size), m_location(loc), m_text(FontHolder::getText())
 {
+	m_text.setCharacterSize(WelcomeConst::SIZE_FONT_BUTTON);
 	loadShape();
 	loadText(buttonName);
 }

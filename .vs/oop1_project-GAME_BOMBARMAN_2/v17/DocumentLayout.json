@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\\u05D4\u05D2\u05E9\u05D5\u05EA \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD Object oriented programming 1 C\u002B\u002B\\oop1_project-GAME_BOMBARMAN_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|CMake Overview Pages||{B1CAA5B0-FEB1-4350-8AB9-F895876842F2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Mac\\Home\\Desktop\\\u05D4\u05D2\u05E9\u05D5\u05EA \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD Object oriented programming 1 C\u002B\u002B\\oop1_project-GAME_BOMBARMAN_2\\src\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Mac\\Home\\Desktop\\\u05D4\u05D2\u05E9\u05D5\u05EA \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD Object oriented programming 1 C\u002B\u002B\\oop1_project-GAME_BOMBARMAN_2\\include\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMake Overview Pages",
+              "DocumentMoniker": "CMake Overview Pages",
+              "ToolTip": "CMake Overview Pages",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-28T21:13:50.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\\u05D4\u05D2\u05E9\u05D5\u05EA \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD Object oriented programming 1 C\u002B\u002B\\oop1_project-GAME_BOMBARMAN_2\\include\\GameManager.h",
+              "RelativeDocumentMoniker": "include\\GameManager.h",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\\u05D4\u05D2\u05E9\u05D5\u05EA \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD Object oriented programming 1 C\u002B\u002B\\oop1_project-GAME_BOMBARMAN_2\\include\\GameManager.h",
+              "RelativeToolTip": "include\\GameManager.h",
+              "ViewState": "AgIAABoAAABAMTMzM/MmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T09:40:57.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\\u05D4\u05D2\u05E9\u05D5\u05EA \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD Object oriented programming 1 C\u002B\u002B\\oop1_project-GAME_BOMBARMAN_2\\src\\GameManager.cpp",
+              "RelativeDocumentMoniker": "src\\GameManager.cpp",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\\u05D4\u05D2\u05E9\u05D5\u05EA \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD Object oriented programming 1 C\u002B\u002B\\oop1_project-GAME_BOMBARMAN_2\\src\\GameManager.cpp",
+              "RelativeToolTip": "src\\GameManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T09:39:18.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

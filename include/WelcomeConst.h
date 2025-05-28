@@ -11,12 +11,12 @@ namespace WelcomeConst {
 	const std::string NAME_EXIT = "Exit";
 	const std::string NAME_BACK = "X";
 
-	const sf::Vector2f SIZE_BUTTON(300.f, 135.f); // גודל כפתור
+	const sf::Vector2f SIZE_BUTTON(300.f, 110.f); // גודל כפתור
 	const sf::Vector2f SIZE_BUTTON_BACK(80.f, 80.f); // גודל כפתור חזרה
 
-	const sf::Vector2f LOC_START(350.f, 800.f); // מיקום כפתור
-	const sf::Vector2f LOC_HELP(350.f, 960.f);
-	const sf::Vector2f LOC_EXIT(350.f, 1120.f);
+	const sf::Vector2f LOC_START(345.f, 920.f); // מיקום כפתור
+	const sf::Vector2f LOC_HELP(345.f, 1045.f);
+	const sf::Vector2f LOC_EXIT(345.f, 1170.f);
 	const sf::Vector2f LOC_BACK(0.f, 0.f); // מיקום כפתור חזרה
 
 	const std::string NAME_PLAYER = "Bomberman game menu";
@@ -26,5 +26,6 @@ namespace WelcomeConst {
 
 	const sf::Vector2f LOC_INFO_HELP(120.f, 120.f); // מיקום אינפורמציה עזרה על החלון
 	const int SIZE_FONT_HELP = 45;
+	const int SIZE_FONT_BUTTON = 70; // גודל כיתוב בכפתור
 
 }

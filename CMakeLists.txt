@@ -2,7 +2,7 @@
 
 project (oop1_project)
 set (COURSE_EXAMPLE OFF)
-set (MY_AUTHORS "GAME_BOMBARMAN")
+set (MY_AUTHORS "GAME_BOMBARMAN_2")
 
 include (cmake/CompilerSettings.cmake)
 
